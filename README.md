@@ -1,4 +1,5 @@
 misc_utils
 ==========
 
-Stuff!
+type_sizes - Display the sizes of the different types on a particular machine
+
